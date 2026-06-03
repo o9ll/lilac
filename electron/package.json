@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Realtime voice conversion with a native C engine",
   "main": "main.js",
-  "repository": "https://github.com/kdrkdrkdr/lilac",
+  "repository": "https://github.com/o9ll/lilac",
   "license": "MIT",
   "scripts": {
     "start": "electron .",

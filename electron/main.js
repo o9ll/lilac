@@ -13,7 +13,7 @@ const DEFAULT_TARGET = app.isPackaged
   ? path.join(EXE_DIR, 'tsu_10s.wav')
   : path.join(__dirname, '..', 'samples', 'tsu_10s.wav');
 const FIXED_K = 3;
-const GITHUB_URL = 'https://github.com/kdrkdrkdr/lilac';
+const GITHUB_URL = 'https://github.com/o9ll/lilac';
 
 let win   = null;
 let lilac = null;

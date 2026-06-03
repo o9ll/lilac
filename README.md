@@ -18,7 +18,7 @@ The desktop app is an Electron shell over `libvc.dll`.
 ## Download
 
 Prebuilt Windows zip on the
-[Releases page](https://github.com/kdrkdrkdr/lilac/releases). Unzip and
+[Releases page](https://github.com/o9ll/lilac/releases). Unzip and
 run `Lilac.exe` — `libvc.dll`, `weights.bin`, and `tsu_10s.wav` sit
 alongside the executable and must stay in the same folder.
 
@@ -70,4 +70,4 @@ See [Optimization.md](Optimization.md) for the full list of perf measures.
 
 ## Links
 
-Source: <https://github.com/kdrkdrkdr/lilac>
+Source: <https://github.com/o9ll/lilac>
